@@ -1,0 +1,9 @@
+Yellow: #ffc324
+
+Darkest grey: #4e4e4e
+
+Dark grey: #3d3d3d
+
+Medium grey: #c0c0c0
+
+Light grey: #e3e3e3

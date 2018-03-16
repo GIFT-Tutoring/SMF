@@ -1,0 +1,3 @@
+Font family combination used: Verdana, Arial, sans serif (in that order)
+
+
